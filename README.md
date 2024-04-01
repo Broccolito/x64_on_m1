@@ -36,3 +36,4 @@ And voila. You can now run osx-64 packages on your M1 Mac!
 
 ## Reference:
 https://conda-forge.org/docs/user/tipsandtricks.html
+https://github.com/brandcm/bioinformatics/blob/main/using_osx64_with_M1.md
